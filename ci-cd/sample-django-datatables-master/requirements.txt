@@ -1,0 +1,15 @@
+asgiref
+autopep8
+django
+pycodestyle
+pytz
+sqlparse
+Unipath
+dj-database-url
+python-dotenv
+gunicorn
+whitenoise
+django-import-export
+pytest
+coverage
+ruff
