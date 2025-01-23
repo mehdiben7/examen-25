@@ -3,7 +3,7 @@ run-name: Testing pipeline
 on:
   push:
     branches:
-      - master
+      - main
 jobs:
   linting:
     runs-on: ubuntu-latest
