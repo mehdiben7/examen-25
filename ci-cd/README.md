@@ -7,15 +7,7 @@ Pour ce faire, il faudra donc concevoir le pipeline Github (Actions/Workflow) po
 
 ## Étape 0: Choisir un projet de départ.
 
-Vous devez choisir un projet de départ qui peut être testé, un template et pas quelquechose que vous avez déjà travaillé dessus (des serveurs surtout), des examples
-https://github.com/app-generator/sample-django-datatables/tree/master (plus simple, mais un peu moins de points, car beaucoup des outils sont très accessibles)
-https://github.com/nventive/DotNet.Backend.Template (plus complexes, mais plus de points)...
-JavaScript surement dans le même niveau que Python
-Des templates Rust pour les connaisseurs c'est aussi OK, probablement un niveau entre pour les points...
-
-Une autre alternative -> Un de ceux du collab-project
-
-# S'IL VOUS PLAIT, METTRE LE LIEN DU TEMPLATE UTILISÉ, MERCI
+https://github.com/app-generator/sample-django-datatables/tree/master 
 
 ## Étape 1: Construire l'environnement de tests.
 Vous devez, à l'aide d'un outil de test automatisés (unitaires), pouvoir montrer les tests qui fail, le taux de coverage, et le taux de succès.
