@@ -7,11 +7,12 @@ on:
 jobs:
   linting:
     runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: ci-cd/sample-django-datatables-master
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with: 
           python-version: '3.13'
-      - run: cd ci-cd/sample-django-datatables-master
-      - run: ls
       - run: pip3 install -r requirements.txt
