@@ -22,3 +22,7 @@ Soit du morse soit du binaire j'ai pas pu déchiffrer aucun des deux. En tous ca
 # Question 5
 
 Il s'agit de la carte du métro de Toronto, comme on peut le voir sur [cette somptueuse image sous licence libre récupérée sur Wikimédia](https://commons.wikimedia.org/wiki/File:Toronto_rapid_transit_map_2023.svg). On a simplement retiré les noms de station et mis toutes les lignes de la même couleur.
+
+# Question 7
+
+J'ai l'impression que c'est un Code QR, mais je ne parviens pas à le formatter
