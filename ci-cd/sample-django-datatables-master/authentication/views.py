@@ -6,11 +6,8 @@ Copyright (c) 2019 - present AppSeed.us
 from django.shortcuts import render
 
 # Create your views here.
-from django.shortcuts import render, redirect
+from django.shortcuts import redirect
 from django.contrib.auth import authenticate, login
-from django.contrib.auth.models import User
-from django.forms.utils import ErrorList
-from django.http import HttpResponse
 from .forms import LoginForm, SignUpForm
 
 def login_view(request):
@@ -45,7 +42,7 @@ def register_user(request):
             form.save()
             username = form.cleaned_data.get("username")
             raw_password = form.cleaned_data.get("password1")
-            user = authenticate(username=username, password=raw_password)
+            authenticate(username=username, password=raw_password)
 
             msg     = 'User created - please <a href="/login">login</a>.'
             success = True

@@ -3,11 +3,12 @@
 Copyright (c) 2019 - present AppSeed.us
 """
 
-import os, random, string
+import os
+import random
+import string
 
 from dotenv import load_dotenv
 from unipath import Path
-import dj_database_url
 
 load_dotenv()
 
