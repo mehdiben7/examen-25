@@ -13,12 +13,12 @@ Jazzy avec 33 points, mais ça dépend de l'emplacement du mot
 
 # Question 3
 
-Engineers mais ça marche pas avec le checksum, sinon la chanson c'est Godiva's Hymn
+Pas sûr du checksum mais la réponse: « un ingénieur » en référence à la chanson Godiva's Hymn ou encore Engineers' Drinking song
 
 # Question 4
 
-Soit du morse soit du binaire j'ai pas pu déchiffrer aucun des deux
+Soit du morse soit du binaire j'ai pas pu déchiffrer aucun des deux. En tous cas la personne est ma foi choqué
 
 # Question 5
 
-
+Il s'agit de la carte du métro de Toronto, comme on peut le voir sur [cette somptueuse image sous licence libre récupérée sur Wikimédia](https://commons.wikimedia.org/wiki/File:Toronto_rapid_transit_map_2023.svg). On a simplement retiré les noms de station et mis toutes les lignes de la même couleur.
