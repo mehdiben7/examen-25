@@ -16,3 +16,4 @@ jobs:
         with: 
           python-version: '3.13'
       - run: pip3 install -r requirements.txt
+      - run: ruff --config dev.ruff.toml check
